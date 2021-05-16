@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Laura
 - 👀 I’m interested in the ways that data science can contribute to discussions on sustainability, gender equity, animal welfare, archaeology, geology and more
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on all the things
+- 💞️ I’m looking to collaborate on NLP and ML projects
 - 📫 How to reach me laura.vodden@outlook.com
 
 <!---
