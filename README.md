@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on anything and everything!
 - 💻 www.linkedin.com/in/lauravodden
 - 🐦 @VoddenLaura
-- - 📫 laura.vodden@outlook.com
+- 📫 laura.vodden@outlook.com
 
 <!---
 lauravodden/lauravodden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
